@@ -1,0 +1,8 @@
+console.log(typeof(NaN))
+console.log(typeof(null))
+console.log(typeof(array))
+console.log(5-'5')
+console.log(5*'5')
+console.log(typeof(5+'5'))
+console.log(typeof(5/'5'))
+console.log(typeof(undefined))
